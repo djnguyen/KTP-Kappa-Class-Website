@@ -1,4 +1,4 @@
-# KTP-Kappa-Class-Website
+# KTP Kappa Class Website
 
 This is the Kappa Theta Pi Kappa Class (F16) Pledge Website
 
